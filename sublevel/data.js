@@ -760,17 +760,17 @@
       "ja": "日本のプロデューサー／ラッパーで、Mall Boyzのメンバー。抽象的なサンプル、低音、壊れたリズムでクラブとラップの間の空間をつくる。2025年EP『King of Nostalgia』でさらに内側へ。"
     },
     "project": {
-      "title": "246 (feat. Tohji & gummyboy)",
+      "title": "Sugar Daddy Swag On (feat. Siero)",
       "type": "single",
-      "date": "2026-04-01",
+      "date": "2026-11-04",
       "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/246-feat-tohji-gummyboy-single/1887292720?uo=4",
+      "appleUrl": "https://music.apple.com/us/album/sugar-daddy-swag-on-feat-siero-single/6829088011?uo=4",
       "preview": {
-        "title": "246 (feat. Tohji & gummyboy)",
-        "durationMs": 233442,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/f0/42/1cf04258-0831-2082-5dec-157f0d4f0e30/mzaf_3876335951730336885.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/00/a7/f200a764-6b7e-c874-58a3-4b6e5ea1084c/4550754708647_cover.png/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/246-feat-tohji-gummyboy/1887292720?i=1887292724&uo=4"
+        "title": "Sugar Daddy Swag On (feat. Siero)",
+        "durationMs": 188744,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/f4/0d/0bf40db4-9b8c-d8be-cb39-ba9937eebfbe/mzaf_8652706001665280460.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/33/9b/19339b13-5837-045d-ac88-e2b936cb65d1/4550796102915_cover.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/sugar-daddy-swag-on-feat-siero/6829088011?i=6829088012&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/jp/artist/kzm/1083743314?uo=4",
@@ -1437,17 +1437,17 @@
       "ja": "韓国アンダーグラウンド・ラップの新血。2026年作『UNDERGROUND』はプラグ、エモいメロディ、ハイパー・トラップを行き来する。beJADE_の2026 KHH UDG選曲でも名前が挙がった。"
     },
     "project": {
-      "title": "ITAEWON BOUNCE",
-      "type": "single",
-      "date": "2026-10-16",
-      "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/itaewon-bounce-single/6822154662?uo=4",
+      "title": "0",
+      "type": "ep",
+      "date": "2026-11-04",
+      "tracks": 4,
+      "appleUrl": "https://music.apple.com/us/album/0-ep/6824443725?uo=4",
       "preview": {
-        "title": "ITAEWON BOUNCE",
-        "durationMs": 156800,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/0e/b6/7f0eb64e-9162-5d65-c156-a552ca512a8c/mzaf_7688109562753610969.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/4e/7f/e74e7fe5-520a-8cb6-f1af-31c7447ce8ad/artwork.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/itaewon-bounce/6822154662?i=6822154663&uo=4"
+        "title": "FREE",
+        "durationMs": 140000,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/9a/9c/2f9a9c1b-4b0e-88f2-5796-e1224a54bb04/mzaf_2779679945048831291.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/17/96/871796da-8b4d-ff80-9508-b567e29c6184/26UM1IM36020.rgb.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/free/6824443725?i=6824443727&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/0siggy/1625823326?uo=4",
@@ -3287,7 +3287,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-04",
+      updated: "2026-11-05",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
