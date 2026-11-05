@@ -3287,7 +3287,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-05",
+      updated: "2026-11-06",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
