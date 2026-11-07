@@ -256,20 +256,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Yaka, Billionhappy"
     },
     {
-      "title": "die 4 / live 4",
-      "album": "JUNGLE +",
-      "year": "2026",
-      "durationMs": 162000,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3317670377",
-      "source": "netease",
-      "neteaseId": "3317670377",
-      "neteasePop": 80,
-      "artistName": "Yaka"
-    },
-    {
       "title": "how2dj",
       "album": "JUNGLE +",
       "year": "2026",
@@ -282,6 +268,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "2610379538",
       "neteasePop": 80,
       "artistName": "Yaka, delphia!"
+    },
+    {
+      "title": "die 4 / live 4",
+      "album": "JUNGLE +",
+      "year": "2026",
+      "durationMs": 162000,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3317670377",
+      "source": "netease",
+      "neteaseId": "3317670377",
+      "neteasePop": 80,
+      "artistName": "Yaka"
     }
   ],
   "charity-ssb": [
@@ -548,6 +548,34 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "ØNE J, SOWUT"
     },
     {
+      "title": "TK17 (feat. FRαNKIE阿法)",
+      "album": "GOOD4SUMMER",
+      "year": "2026",
+      "durationMs": 154455,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3423872273",
+      "source": "netease",
+      "neteaseId": "3423872273",
+      "neteasePop": 20,
+      "artistName": "SOWUT, FRαNKIE阿法"
+    },
+    {
+      "title": "247YLSWAGGIN (feat. STACO & T-PLUZ)",
+      "album": "GOOD4SUMMER",
+      "year": "2026",
+      "durationMs": 183428,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3423875069",
+      "source": "netease",
+      "neteaseId": "3423875069",
+      "neteasePop": 15,
+      "artistName": "SOWUT, STACO, T-PLUZ"
+    },
+    {
       "title": "南部囝仔 feat. SOWUT",
       "album": "羊肉",
       "year": "2026",
@@ -644,34 +672,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "1342592224",
       "neteasePop": 10,
       "artistName": "莫宰羊, SOWUT, 三小湯"
-    },
-    {
-      "title": "RING RING",
-      "album": "龙虎门 RAP N' ROLL - Vol.01",
-      "year": "2018",
-      "durationMs": 186000,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/c2/07/6dc20731-082e-3215-0123-28e38a895211/mzaf_12868860648415909505.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/de/29/13de2915-3e5e-df4e-1839-492d6f57e46e/4710243770719.png/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/ring-ring-feat-angry-youth/1826265849?i=1826265851&uo=4",
-      "externalUrl": "https://music.163.com/song?id=1318504433",
-      "source": "netease",
-      "neteaseId": "1318504433",
-      "neteasePop": 10,
-      "artistName": "SOWUT, Angry Youth"
-    },
-    {
-      "title": "Benz Booty (feat. SOWUT)",
-      "album": "#osnrap",
-      "year": "2019",
-      "durationMs": 154368,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/0a/0e/100a0e55-3a87-105e-ea9c-4638cf52d4e5/mzaf_13822032730566289906.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/b0/4d/2fb04dcf-86d5-ac3c-329e-45421a28b710/4710243776896_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/benz-booty-feat-sowut/1460167114?i=1460167121&uo=4",
-      "externalUrl": "https://music.163.com/song?id=1359451514",
-      "source": "netease",
-      "neteaseId": "1359451514",
-      "neteasePop": 10,
-      "artistName": "高尔宣, SOWUT"
     }
   ],
   "noly": [
@@ -732,20 +732,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "YoungQueenz, N.O.L.Y, Floyd Cheung, LOOTA"
     },
     {
-      "title": "蓝莲花 Le Lotus Bleu Freestyle",
-      "album": "龍寨 DT2",
-      "year": "2026",
-      "durationMs": 208025,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3324385147",
-      "source": "netease",
-      "neteaseId": "3324385147",
-      "neteasePop": 50,
-      "artistName": "YoungQueenz, N.O.L.Y, Floyd Cheung"
-    },
-    {
       "title": "龍鎮 II DragonTown II",
       "album": "龍寨 EP / DragonTown EP",
       "year": "2026",
@@ -758,6 +744,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "540394907",
       "neteasePop": 50,
       "artistName": "YoungQueenz, N.O.L.Y"
+    },
+    {
+      "title": "蓝莲花 Le Lotus Bleu Freestyle",
+      "album": "龍寨 DT2",
+      "year": "2026",
+      "durationMs": 208025,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3324385147",
+      "source": "netease",
+      "neteaseId": "3324385147",
+      "neteasePop": 50,
+      "artistName": "YoungQueenz, N.O.L.Y, Floyd Cheung"
     },
     {
       "title": "beauty_beast",
@@ -1016,6 +1016,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Giriboy, NO:EL, Black Nut, YANGHONGWON, Osshun Gum, YUNHWAY, JUSTHIS, Jvcki Wai, Kid Milli, HAN YO HAN, Swings"
     },
     {
+      "title": "띵 (Prod. By 기리보이)",
+      "album": "Dingo X Indigo Music",
+      "year": "2026",
+      "durationMs": 226565,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=1339711866",
+      "source": "netease",
+      "neteaseId": "1339711866",
+      "neteasePop": 55,
+      "artistName": "Jvcki Wai, YANGHONGWON, Osshun Gum, HAN YO HAN"
+    },
+    {
       "title": "EZ (Prod. Czaer)",
       "album": "스트릿 우먼 파이터2 (SWF2) 크루곡",
       "year": "2026",
@@ -1042,20 +1056,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "574919867",
       "neteasePop": 55,
       "artistName": "JUSTHIS, Jvcki Wai, Kid Milli, YANGHONGWON"
-    },
-    {
-      "title": "띵 (Prod. By 기리보이)",
-      "album": "Dingo X Indigo Music",
-      "year": "2026",
-      "durationMs": 226565,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=1339711866",
-      "source": "netease",
-      "neteaseId": "1339711866",
-      "neteasePop": 55,
-      "artistName": "Jvcki Wai, YANGHONGWON, Osshun Gum, HAN YO HAN"
     },
     {
       "title": "Work Out",
@@ -1158,6 +1158,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "CHOILB"
     },
     {
+      "title": "독립음악",
+      "album": "독립음악",
+      "year": "2026",
+      "durationMs": 190307,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=1893320476",
+      "source": "netease",
+      "neteaseId": "1893320476",
+      "neteasePop": 15,
+      "artistName": "CHOILB"
+    },
+    {
       "title": "Window (Feat. 최엘비)",
       "album": "OTL",
       "year": "2026",
@@ -1184,20 +1198,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "1388120271",
       "neteasePop": 15,
       "artistName": "Woodie Gochild, CHOILB, BIG Naughty, YANGHONGWON, Chillin Homie, Giriboy"
-    },
-    {
-      "title": "독립음악",
-      "album": "독립음악",
-      "year": "2026",
-      "durationMs": 190307,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=1893320476",
-      "source": "netease",
-      "neteaseId": "1893320476",
-      "neteasePop": 15,
-      "artistName": "CHOILB"
     },
     {
       "title": "어깨동무 (Feat. 최엘비)",
@@ -1286,20 +1286,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Tohji, Mechatok"
     },
     {
-      "title": "jenga",
-      "album": "zero-two",
-      "year": "2026",
-      "durationMs": 134473,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=2700098155",
-      "source": "netease",
-      "neteaseId": "2700098155",
-      "neteasePop": 25,
-      "artistName": "Tohji"
-    },
-    {
       "title": "GOKU VIBES",
       "album": "GOKU VIBES",
       "year": "2026",
@@ -1312,6 +1298,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "1433523845",
       "neteasePop": 25,
       "artistName": "DJ CHARI, DJ TATSUKI, Tohji, Elle Teresa, UNEDUCATED KID, Futuristic Swaver"
+    },
+    {
+      "title": "jenga",
+      "album": "zero-two",
+      "year": "2026",
+      "durationMs": 134473,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=2700098155",
+      "source": "netease",
+      "neteaseId": "2700098155",
+      "neteasePop": 25,
+      "artistName": "Tohji"
     },
     {
       "title": "Super Ocean Man",
@@ -1442,6 +1442,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "kZm, JUMADIBA, ralph"
     },
     {
+      "title": "Sugar Daddy Swag On (feat. Siero)",
+      "album": "Sugar Daddy Swag On (feat. Siero)",
+      "year": "2026",
+      "durationMs": 188744,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3455884643",
+      "source": "netease",
+      "neteaseId": "3455884643",
+      "neteasePop": 10,
+      "artistName": "kZm, Siero"
+    },
+    {
       "title": "KILL IT EYDEY",
       "album": "KILL IT EYDEY",
       "year": "2026",
@@ -1510,20 +1524,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "1413200302",
       "neteasePop": 10,
       "artistName": "PETZ, Gab3, kZm"
-    },
-    {
-      "title": "Fallin' feat. kZm",
-      "album": "COSMOS",
-      "year": "2026",
-      "durationMs": 184320,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=1413201099",
-      "source": "netease",
-      "neteaseId": "1413201099",
-      "neteasePop": 10,
-      "artistName": "PETZ, kZm"
     }
   ],
   "lil-soft-tennis": [
@@ -1726,6 +1726,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Cocc Pistol Cree, Clipping."
     },
     {
+      "title": "Say the Name",
+      "album": "Visions of Bodies Being Burned",
+      "year": "2026",
+      "durationMs": 299605,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=1489496844",
+      "source": "netease",
+      "neteaseId": "1489496844",
+      "neteasePop": 15,
+      "artistName": "Clipping."
+    },
+    {
       "title": "Stab Him in The Throat",
       "album": "The Rick and Morty Soundtrack",
       "year": "2018",
@@ -1740,17 +1754,17 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Clipping."
     },
     {
-      "title": "Say the Name",
-      "album": "Visions of Bodies Being Burned",
+      "title": "Story 2",
+      "album": "CLPPNG",
       "year": "2026",
-      "durationMs": 299605,
+      "durationMs": 132050,
       "previewUrl": null,
       "artwork": null,
       "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=1489496844",
+      "externalUrl": "https://music.163.com/song?id=862267876",
       "source": "netease",
-      "neteaseId": "1489496844",
-      "neteasePop": 15,
+      "neteaseId": "862267876",
+      "neteasePop": 10,
       "artistName": "Clipping."
     },
     {
@@ -1792,20 +1806,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "externalUrl": "https://music.163.com/song?id=29487738",
       "source": "netease",
       "neteaseId": "29487738",
-      "neteasePop": 10,
-      "artistName": "Clipping."
-    },
-    {
-      "title": "loud mix01",
-      "album": "midcity (acapella)",
-      "year": "2026",
-      "durationMs": 240000,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=26492985",
-      "source": "netease",
-      "neteaseId": "26492985",
       "neteasePop": 10,
       "artistName": "Clipping."
     }
@@ -1996,20 +1996,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "By Storm, Injury Reserve"
     },
     {
-      "title": "GGG",
-      "album": "My Ghosts Go Ghost",
-      "year": "2026",
-      "durationMs": 242362,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3339933972",
-      "source": "netease",
-      "neteaseId": "3339933972",
-      "neteasePop": 10,
-      "artistName": "By Storm, Injury Reserve"
-    },
-    {
       "title": "And I Dance",
       "album": "My Ghosts Go Ghost",
       "year": "2026",
@@ -2092,6 +2078,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "2608239517",
       "neteasePop": 10,
       "artistName": "By Storm"
+    },
+    {
+      "title": "Double Trio 2",
+      "album": "Double Trio 2",
+      "year": "2025",
+      "durationMs": 310540,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/28/d1/4a28d117-c228-aa56-0da0-541f9ea7f839/mzaf_8183605089223710264.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/8f/21/078f2133-1c3c-aeed-a08f-74f535d7e3e4/193436454834_MGGGCoverIRL.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/double-trio-2/1869647098?i=1869647112&uo=4",
+      "externalUrl": "https://music.163.com/song?id=2686362061",
+      "source": "netease",
+      "neteaseId": "2686362061",
+      "neteasePop": 10,
+      "artistName": "By Storm, Injury Reserve"
     }
   ],
   "blackhaine": [
@@ -2380,6 +2380,20 @@ window.SUBLEVEL_TOP_TRACKS = {
   ],
   "serane": [
     {
+      "title": "DISTANT LOVERS",
+      "album": "DISTANT LOVERS",
+      "year": "2026",
+      "durationMs": 130909,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=2748652651",
+      "source": "netease",
+      "neteaseId": "2748652651",
+      "neteasePop": 10,
+      "artistName": "Serane"
+    },
+    {
       "title": "SSK (feat. Serane)",
       "album": "Divine Tape 2",
       "year": "2026",
@@ -2504,20 +2518,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "1864520066",
       "neteasePop": 10,
       "artistName": "Serane"
-    },
-    {
-      "title": "Food",
-      "album": "Serane Meets Cashcache!",
-      "year": "2026",
-      "durationMs": 170057,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=1881654201",
-      "source": "netease",
-      "neteaseId": "1881654201",
-      "neteasePop": 10,
-      "artistName": "Cashcache!, Serane, BoofpaxkMooky"
     }
   ],
   "shoujo-band": [
@@ -2720,20 +2720,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Kisso Cotty, alyorra"
     },
     {
-      "title": "How did the dream begin?",
-      "album": "Melted Summer Dream",
-      "year": "2026",
-      "durationMs": 57049,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/16/c6/7f16c617-2f29-3e1e-ef2b-f0d537eb1ff5/mzaf_2234689396462011701.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/90/d1/7a90d1f8-0cc8-38a7-415b-75a4197f228f/6932897006022.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/how-did-the-dream-begin/6821288470?i=6821288471&uo=4",
-      "externalUrl": "https://music.163.com/song?id=3446397357",
-      "source": "netease",
-      "neteaseId": "3446397357",
-      "neteasePop": 25,
-      "artistName": "Kisso Cotty"
-    },
-    {
       "title": "Lollipop",
       "album": "Melted Summer Dream",
       "year": "2026",
@@ -2744,6 +2730,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "externalUrl": "https://music.163.com/song?id=3446397359",
       "source": "netease",
       "neteaseId": "3446397359",
+      "neteasePop": 25,
+      "artistName": "Kisso Cotty"
+    },
+    {
+      "title": "How did the dream begin?",
+      "album": "Melted Summer Dream",
+      "year": "2026",
+      "durationMs": 57049,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/16/c6/7f16c617-2f29-3e1e-ef2b-f0d537eb1ff5/mzaf_2234689396462011701.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/90/d1/7a90d1f8-0cc8-38a7-415b-75a4197f228f/6932897006022.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/how-did-the-dream-begin/6821288470?i=6821288471&uo=4",
+      "externalUrl": "https://music.163.com/song?id=3446397357",
+      "source": "netease",
+      "neteaseId": "3446397357",
       "neteasePop": 25,
       "artistName": "Kisso Cotty"
     },
@@ -3018,20 +3018,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Chilloud"
     },
     {
-      "title": "SHUT UP",
-      "album": "생각지우기 unthink",
-      "year": "2026",
-      "durationMs": 119551,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3369765678",
-      "source": "netease",
-      "neteaseId": "3369765678",
-      "neteasePop": 20,
-      "artistName": "Chilloud"
-    },
-    {
       "title": "immortal",
       "album": "생각지우기 unthink",
       "year": "2026",
@@ -3042,6 +3028,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "externalUrl": "https://music.163.com/song?id=3369766091",
       "source": "netease",
       "neteaseId": "3369766091",
+      "neteasePop": 20,
+      "artistName": "Chilloud"
+    },
+    {
+      "title": "SHUT UP",
+      "album": "생각지우기 unthink",
+      "year": "2026",
+      "durationMs": 119551,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3369765678",
+      "source": "netease",
+      "neteaseId": "3369765678",
       "neteasePop": 20,
       "artistName": "Chilloud"
     },
@@ -3174,20 +3174,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "yeil"
     },
     {
-      "title": "러브스토리.. (feat. markisa)",
-      "album": "heart pop",
-      "year": "2026",
-      "durationMs": 144964,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/d7/d4/2cd7d4c8-725a-125e-6b31-970793b092b9/mzaf_6531866188648648302.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/23/fe/b923fef1-f9dd-3bf0-0245-c130f28c0eae/artwork.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%EB%9F%AC%EB%B8%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-feat-markisa/1879689708?i=1879689717&uo=4",
-      "externalUrl": "https://music.163.com/song?id=3351726648",
-      "source": "netease",
-      "neteaseId": "3351726648",
-      "neteasePop": 45,
-      "artistName": "markisa, yeil"
-    },
-    {
       "title": "아이러니한 사이",
       "album": "heart pop",
       "year": "2026",
@@ -3200,6 +3186,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "3351727930",
       "neteasePop": 45,
       "artistName": "yeil"
+    },
+    {
+      "title": "러브스토리.. (feat. markisa)",
+      "album": "heart pop",
+      "year": "2026",
+      "durationMs": 144964,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/d7/d4/2cd7d4c8-725a-125e-6b31-970793b092b9/mzaf_6531866188648648302.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/23/fe/b923fef1-f9dd-3bf0-0245-c130f28c0eae/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%EB%9F%AC%EB%B8%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-feat-markisa/1879689708?i=1879689717&uo=4",
+      "externalUrl": "https://music.163.com/song?id=3351726648",
+      "source": "netease",
+      "neteaseId": "3351726648",
+      "neteasePop": 45,
+      "artistName": "markisa, yeil"
     },
     {
       "title": "RESETT (feat. yeil)",
@@ -3756,20 +3756,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Billionhappy, 果女GOGO, Chalky Wong"
     },
     {
-      "title": "浪子 (feat. Chalky Wong & Billionhappy)",
-      "album": "垃圾场",
-      "year": "2026",
-      "durationMs": 235862,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3383146639",
-      "source": "netease",
-      "neteaseId": "3383146639",
-      "neteasePop": 95,
-      "artistName": "劣, Chalky Wong, Billionhappy"
-    },
-    {
       "title": "狂",
       "album": "diǎo",
       "year": "2026",
@@ -3782,6 +3768,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "2705469232",
       "neteasePop": 95,
       "artistName": "Billionhappy"
+    },
+    {
+      "title": "浪子 (feat. Chalky Wong & Billionhappy)",
+      "album": "垃圾场",
+      "year": "2026",
+      "durationMs": 235862,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3383146639",
+      "source": "netease",
+      "neteaseId": "3383146639",
+      "neteasePop": 95,
+      "artistName": "劣, Chalky Wong, Billionhappy"
     },
     {
       "title": "666999",
@@ -3998,20 +3998,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Devstacks"
     },
     {
-      "title": "Stand For It",
-      "album": "Soul",
-      "year": "2026",
-      "durationMs": 173685,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3442100702",
-      "source": "netease",
-      "neteaseId": "3442100702",
-      "neteasePop": 85,
-      "artistName": "Devstacks"
-    },
-    {
       "title": "Scriptures",
       "album": "Scriptures",
       "year": "2026",
@@ -4022,6 +4008,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "externalUrl": "https://music.163.com/song?id=2074000481",
       "source": "netease",
       "neteaseId": "2074000481",
+      "neteasePop": 85,
+      "artistName": "Devstacks"
+    },
+    {
+      "title": "Stand For It",
+      "album": "Soul",
+      "year": "2026",
+      "durationMs": 173685,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3442100702",
+      "source": "netease",
+      "neteaseId": "3442100702",
       "neteasePop": 85,
       "artistName": "Devstacks"
     },
@@ -4240,20 +4240,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Hidoyard"
     },
     {
-      "title": "中国热",
-      "album": "UDG FRESHMAN 2026 SHOW",
-      "year": "2026",
-      "durationMs": 96296,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/0c/41/520c41f3-4931-0391-0038-8a405316eff0/mzaf_18308235833312141411.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/6d/84/6e6d8420-3bef-dfde-e614-65dcb1bc813c/885288766110.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E4%B8%AD%E5%9B%BD%E7%83%AD/6819993671?i=6819993679&uo=4",
-      "externalUrl": "https://music.163.com/song?id=3445096691",
-      "source": "netease",
-      "neteaseId": "3445096691",
-      "neteasePop": 100,
-      "artistName": "UDG Records, Hidoyard"
-    },
-    {
       "title": "终于等到花开",
       "album": "莲華",
       "year": "2026",
@@ -4266,6 +4252,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "3416514269",
       "neteasePop": 100,
       "artistName": "Hidoyard"
+    },
+    {
+      "title": "中国热",
+      "album": "UDG FRESHMAN 2026 SHOW",
+      "year": "2026",
+      "durationMs": 96296,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/0c/41/520c41f3-4931-0391-0038-8a405316eff0/mzaf_18308235833312141411.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/6d/84/6e6d8420-3bef-dfde-e614-65dcb1bc813c/885288766110.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E4%B8%AD%E5%9B%BD%E7%83%AD/6819993671?i=6819993679&uo=4",
+      "externalUrl": "https://music.163.com/song?id=3445096691",
+      "source": "netease",
+      "neteaseId": "3445096691",
+      "neteasePop": 100,
+      "artistName": "UDG Records, Hidoyard"
     },
     {
       "title": "莲花",
@@ -4396,20 +4396,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Taco, Losty"
     },
     {
-      "title": "謊言＋秘密＝幸福 (feat. EMOji蟻眸几)",
-      "album": "If She's Real She Bleed",
-      "year": "2026",
-      "durationMs": 127036,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=2726995095",
-      "source": "netease",
-      "neteaseId": "2726995095",
-      "neteasePop": 95,
-      "artistName": "Losty, EMOji蟻眸几"
-    },
-    {
       "title": "be the one",
       "album": "be the one",
       "year": "2026",
@@ -4422,6 +4408,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "2739838971",
       "neteasePop": 95,
       "artistName": "risya, Losty"
+    },
+    {
+      "title": "謊言＋秘密＝幸福 (feat. EMOji蟻眸几)",
+      "album": "If She's Real She Bleed",
+      "year": "2026",
+      "durationMs": 127036,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=2726995095",
+      "source": "netease",
+      "neteaseId": "2726995095",
+      "neteasePop": 95,
+      "artistName": "Losty, EMOji蟻眸几"
     },
     {
       "title": "late night studio grind grind grind",
@@ -4452,20 +4452,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "INHON, Losty"
     },
     {
-      "title": "每天讓妳多開心一點",
-      "album": "Dusty*",
-      "year": "2024",
-      "durationMs": 179699,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/91/ca/f091ca1e-01e8-75e4-b22a-c64d05ee8335/mzaf_6359576680549913196.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/61/6c/78616cf5-e5b5-016a-3cfc-e2a8d761c8a1/725336799410_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E6%AF%8F%E5%A4%A9%E8%AE%93%E5%A6%B3%E5%A4%9A%E9%96%8B%E5%BF%83%E4%B8%80%E9%BB%9E-feat-drogas/1726309408?i=1726309421&uo=4",
-      "externalUrl": "https://music.163.com/song?id=2118556798",
-      "source": "netease",
-      "neteaseId": "2118556798",
-      "neteasePop": 90,
-      "artistName": "Losty, Drogas"
-    },
-    {
       "title": "打帶跑",
       "album": "打帶跑",
       "year": "2026",
@@ -4478,6 +4464,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "3319174449",
       "neteasePop": 90,
       "artistName": "Losty"
+    },
+    {
+      "title": "每天讓妳多開心一點",
+      "album": "Dusty*",
+      "year": "2024",
+      "durationMs": 179699,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/91/ca/f091ca1e-01e8-75e4-b22a-c64d05ee8335/mzaf_6359576680549913196.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/61/6c/78616cf5-e5b5-016a-3cfc-e2a8d761c8a1/725336799410_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E6%AF%8F%E5%A4%A9%E8%AE%93%E5%A6%B3%E5%A4%9A%E9%96%8B%E5%BF%83%E4%B8%80%E9%BB%9E-feat-drogas/1726309408?i=1726309421&uo=4",
+      "externalUrl": "https://music.163.com/song?id=2118556798",
+      "source": "netease",
+      "neteaseId": "2118556798",
+      "neteasePop": 90,
+      "artistName": "Losty, Drogas"
     },
     {
       "title": "上衣",
@@ -4920,18 +4920,18 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "亚当魔星, 周乘羽"
     },
     {
-      "title": "太古飞",
-      "album": "商业与玩法",
+      "title": "Why Not ft.卡力老虎&JesseMargiela",
+      "album": "HUSH",
       "year": "2026",
-      "durationMs": 142511,
+      "durationMs": 153473,
       "previewUrl": null,
       "artwork": null,
       "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3440172854",
+      "externalUrl": "https://music.163.com/song?id=3334255093",
       "source": "netease",
-      "neteaseId": "3440172854",
+      "neteaseId": "3334255093",
       "neteasePop": 100,
-      "artistName": "卡力老虎, 周乘羽"
+      "artistName": "SABER徐天知, 卡力老虎, 周乘羽"
     }
   ],
   "ananta": [
@@ -5134,20 +5134,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "mitsu, crusifye"
     },
     {
-      "title": "alright",
-      "album": "protect me at all costs",
-      "year": "2026",
-      "durationMs": 194736,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=1409949718",
-      "source": "netease",
-      "neteaseId": "1409949718",
-      "neteasePop": 25,
-      "artistName": "mitsu"
-    },
-    {
       "title": "forbidden fruit",
       "album": "forbidden fruit",
       "year": "2026",
@@ -5158,6 +5144,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "externalUrl": "https://music.163.com/song?id=3447366653",
       "source": "netease",
       "neteaseId": "3447366653",
+      "neteasePop": 25,
+      "artistName": "mitsu"
+    },
+    {
+      "title": "alright",
+      "album": "protect me at all costs",
+      "year": "2026",
+      "durationMs": 194736,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=1409949718",
+      "source": "netease",
+      "neteaseId": "1409949718",
       "neteasePop": 25,
       "artistName": "mitsu"
     },
@@ -5190,20 +5190,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "mitsu"
     },
     {
-      "title": "Eternal Convict (永遠の)",
-      "album": "Eternal Convict (永遠の)",
-      "year": "2026",
-      "durationMs": 154168,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=1428728324",
-      "source": "netease",
-      "neteaseId": "1428728324",
-      "neteasePop": 20,
-      "artistName": "mitsu, crusifye"
-    },
-    {
       "title": "redEye",
       "album": "forbidden fruit",
       "year": "2026",
@@ -5216,6 +5202,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "3447366875",
       "neteasePop": 20,
       "artistName": "mitsu"
+    },
+    {
+      "title": "Eternal Convict (永遠の)",
+      "album": "Eternal Convict (永遠の)",
+      "year": "2026",
+      "durationMs": 154168,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=1428728324",
+      "source": "netease",
+      "neteaseId": "1428728324",
+      "neteasePop": 20,
+      "artistName": "mitsu, crusifye"
     }
   ],
   "sei": [
@@ -6696,20 +6696,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Taco"
     },
     {
-      "title": "坏习惯",
-      "album": "in 55!w !",
-      "year": "2026",
-      "durationMs": 126233,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/ce/ef/83ceef24-fbf8-1ad3-8f0e-6cd122511e0a/mzaf_5374556629598079313.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/de/2c/5ede2c13-ebd3-0367-6757-1c043b5ab636/54947.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E5%9D%8F%E4%B9%A0%E6%83%AF/6793081198?i=6793081520&uo=4",
-      "externalUrl": "https://music.163.com/song?id=3404060190",
-      "source": "netease",
-      "neteaseId": "3404060190",
-      "neteasePop": 95,
-      "artistName": "Taco"
-    },
-    {
       "title": "熊猫眼",
       "album": "NSG",
       "year": "2026",
@@ -6724,18 +6710,18 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "skiboyvv, Taco"
     },
     {
-      "title": "坏话",
-      "album": ":)",
+      "title": "坏习惯",
+      "album": "in 55!w !",
       "year": "2026",
-      "durationMs": 171220,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3376626123",
+      "durationMs": 126233,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/ce/ef/83ceef24-fbf8-1ad3-8f0e-6cd122511e0a/mzaf_5374556629598079313.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/de/2c/5ede2c13-ebd3-0367-6757-1c043b5ab636/54947.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E5%9D%8F%E4%B9%A0%E6%83%AF/6793081198?i=6793081520&uo=4",
+      "externalUrl": "https://music.163.com/song?id=3404060190",
       "source": "netease",
-      "neteaseId": "3376626123",
+      "neteaseId": "3404060190",
       "neteasePop": 95,
-      "artistName": "Arthurnevawakes, Taco, jackzebra"
+      "artistName": "Taco"
     },
     {
       "title": "23",
@@ -6750,6 +6736,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "3433890843",
       "neteasePop": 95,
       "artistName": "Taco, skiboyvv"
+    },
+    {
+      "title": "坏话",
+      "album": ":)",
+      "year": "2026",
+      "durationMs": 171220,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3376626123",
+      "source": "netease",
+      "neteaseId": "3376626123",
+      "neteasePop": 95,
+      "artistName": "Arthurnevawakes, Taco, jackzebra"
     },
     {
       "title": "Topless",
@@ -6966,20 +6966,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Westwood"
     },
     {
-      "title": "Something 2 Prove",
-      "album": "Glamour",
-      "year": "2026",
-      "durationMs": 153348,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3327562082",
-      "source": "netease",
-      "neteaseId": "3327562082",
-      "neteasePop": 100,
-      "artistName": "Westwood"
-    },
-    {
       "title": "JUST TOUCHED DOWN",
       "album": "JUST TOUCHED DOWN",
       "year": "2026",
@@ -6990,6 +6976,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "externalUrl": "https://music.163.com/song?id=2166679150",
       "source": "netease",
       "neteaseId": "2166679150",
+      "neteasePop": 100,
+      "artistName": "Westwood"
+    },
+    {
+      "title": "Something 2 Prove",
+      "album": "Glamour",
+      "year": "2026",
+      "durationMs": 153348,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3327562082",
+      "source": "netease",
+      "neteaseId": "3327562082",
       "neteasePop": 100,
       "artistName": "Westwood"
     },
@@ -7050,18 +7050,18 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Westwood"
     },
     {
-      "title": "dallas love (feat. Westwood & nxah)",
-      "album": "tour ep",
+      "title": "On The Floor",
+      "album": "Luxury",
       "year": "2026",
-      "durationMs": 142941,
+      "durationMs": 214512,
       "previewUrl": null,
       "artwork": null,
       "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3437660589",
+      "externalUrl": "https://music.163.com/song?id=3451535752",
       "source": "netease",
-      "neteaseId": "3437660589",
+      "neteaseId": "3451535752",
       "neteasePop": 95,
-      "artistName": "SEBii, Kimj, Westwood, nxah"
+      "artistName": "Westwood"
     }
   ],
   "nato": [
@@ -7192,18 +7192,18 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "GODTIER, nato"
     },
     {
-      "title": "T1",
-      "album": "!N",
+      "title": "jellycat",
+      "album": "my gift to you",
       "year": "2026",
-      "durationMs": 130008,
+      "durationMs": 97600,
       "previewUrl": null,
       "artwork": null,
       "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=2707723254",
+      "externalUrl": "https://music.163.com/song?id=2659696585",
       "source": "netease",
-      "neteaseId": "2707723254",
+      "neteaseId": "2659696585",
       "neteasePop": 90,
-      "artistName": "Raink, nato"
+      "artistName": "nato"
     }
   ],
   "skyte": [
@@ -7448,20 +7448,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "2hollis, Nate Sib"
     },
     {
-      "title": "safety",
-      "album": "White Tiger",
-      "year": "2026",
-      "durationMs": 148281,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=1969190267",
-      "source": "netease",
-      "neteaseId": "1969190267",
-      "neteasePop": 95,
-      "artistName": "2hollis"
-    },
-    {
       "title": "cliche",
       "album": "whiplash / cliche",
       "year": "2023",
@@ -7472,6 +7458,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "externalUrl": "https://music.163.com/song?id=2063714667",
       "source": "netease",
       "neteaseId": "2063714667",
+      "neteasePop": 95,
+      "artistName": "2hollis"
+    },
+    {
+      "title": "safety",
+      "album": "White Tiger",
+      "year": "2026",
+      "durationMs": 148281,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=1969190267",
+      "source": "netease",
+      "neteaseId": "1969190267",
       "neteasePop": 95,
       "artistName": "2hollis"
     },
@@ -7534,20 +7534,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "slayr, Lucy Bedroque"
     },
     {
-      "title": "SPEED DEMON",
-      "album": "c",
-      "year": "2026",
-      "durationMs": 145777,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3436758486",
-      "source": "netease",
-      "neteaseId": "3436758486",
-      "neteasePop": 85,
-      "artistName": "Lucy Bedroque"
-    },
-    {
       "title": "White Horse",
       "album": "A/B Side",
       "year": "2026",
@@ -7558,6 +7544,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "externalUrl": "https://music.163.com/song?id=3422143267",
       "source": "netease",
       "neteaseId": "3422143267",
+      "neteasePop": 85,
+      "artistName": "Lucy Bedroque"
+    },
+    {
+      "title": "SPEED DEMON",
+      "album": "c",
+      "year": "2026",
+      "durationMs": 145777,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3436758486",
+      "source": "netease",
+      "neteaseId": "3436758486",
       "neteasePop": 85,
       "artistName": "Lucy Bedroque"
     },
@@ -7604,16 +7604,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Lucy Bedroque"
     },
     {
-      "title": "ALL SPEAKERS GO TO HEAVEN",
-      "album": "c",
+      "title": "Knot Me",
+      "album": "Fête de la Vanille",
       "year": "2026",
-      "durationMs": 210524,
+      "durationMs": 244735,
       "previewUrl": null,
       "artwork": null,
       "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3436758800",
+      "externalUrl": "https://music.163.com/song?id=3385121903",
       "source": "netease",
-      "neteaseId": "3436758800",
+      "neteaseId": "3385121903",
       "neteasePop": 80,
       "artistName": "Lucy Bedroque"
     },
@@ -7760,18 +7760,18 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Drogas"
     },
     {
-      "title": "每天讓妳多開心一點",
-      "album": "Dusty*",
+      "title": "找找",
+      "album": "愛·無限II",
       "year": "2026",
-      "durationMs": 179699,
+      "durationMs": 157607,
       "previewUrl": null,
       "artwork": null,
       "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=2118556798",
+      "externalUrl": "https://music.163.com/song?id=3452843945",
       "source": "netease",
-      "neteaseId": "2118556798",
+      "neteaseId": "3452843945",
       "neteasePop": 90,
-      "artistName": "Losty, Drogas"
+      "artistName": "Drogas"
     }
   ],
   "molly-yam": [
@@ -7846,20 +7846,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Molly Yam, Loco"
     },
     {
-      "title": "TIKTOKSTA Ⅱ",
-      "album": "TIKTOKSTA Ⅱ",
-      "year": "2026",
-      "durationMs": 166400,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3394493966",
-      "source": "netease",
-      "neteaseId": "3394493966",
-      "neteasePop": 75,
-      "artistName": "Molly Yam"
-    },
-    {
       "title": "B2B (Feat. Molly Yam)",
       "album": "CHU♡",
       "year": "2026",
@@ -7872,6 +7858,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "3363095316",
       "neteasePop": 75,
       "artistName": "Kimmy gone, Molly Yam"
+    },
+    {
+      "title": "TIKTOKSTA Ⅱ",
+      "album": "TIKTOKSTA Ⅱ",
+      "year": "2026",
+      "durationMs": 166400,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3394493966",
+      "source": "netease",
+      "neteaseId": "3394493966",
+      "neteasePop": 75,
+      "artistName": "Molly Yam"
     },
     {
       "title": "넌 날 미치게 만들겠지만 (You make me crzy)",
@@ -7946,20 +7946,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Arthurnevawakes, R!R!Riot"
     },
     {
-      "title": "yup yup yup",
-      "album": "tour ep",
-      "year": "2026",
-      "durationMs": 118163,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3437660590",
-      "source": "netease",
-      "neteaseId": "3437660590",
-      "neteasePop": 95,
-      "artistName": "SEBii, Kimj, R!R!Riot"
-    },
-    {
       "title": "OVER U (feat. ATM Hanson)",
       "album": "R!R!Riot",
       "year": "2026",
@@ -7972,6 +7958,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "2052709261",
       "neteasePop": 95,
       "artistName": "R!R!Riot, ATM Hanson"
+    },
+    {
+      "title": "yup yup yup",
+      "album": "tour ep",
+      "year": "2026",
+      "durationMs": 118163,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=3437660590",
+      "source": "netease",
+      "neteaseId": "3437660590",
+      "neteasePop": 95,
+      "artistName": "SEBii, Kimj, R!R!Riot"
     },
     {
       "title": "几遍",
@@ -8259,20 +8259,6 @@ window.SUBLEVEL_TOP_TRACKS = {
     },
     {
       "title": "Haul",
-      "album": "Bypass",
-      "year": "2023",
-      "durationMs": 125538,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/36/43/78/364378c4-97de-6ba9-e80f-7745dba88720/mzaf_369801151228573954.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/45/1e/82451eb1-4655-d138-3d25-f16c94d4e840/8809960966928.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/haul/1719030995?i=1719031371&uo=4",
-      "externalUrl": "https://music.163.com/song?id=2161902073",
-      "source": "netease",
-      "neteaseId": "2161902073",
-      "neteasePop": 10,
-      "artistName": "pakaowlla"
-    },
-    {
-      "title": "Haul",
       "album": "Haul",
       "year": "2023",
       "durationMs": 125538,
@@ -8340,6 +8326,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "neteaseId": "2161902074",
       "neteasePop": 10,
       "artistName": "pakaowlla"
+    },
+    {
+      "title": "Rage For Love",
+      "album": "STARDUST LIFESTYLE",
+      "year": "2026",
+      "durationMs": 167102,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=2680914056",
+      "source": "netease",
+      "neteaseId": "2680914056",
+      "neteasePop": 10,
+      "artistName": "키모엘 (Kimo:L), pakaowlla"
     }
   ],
   "karaika": [
@@ -8369,20 +8369,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "source": "netease",
       "neteaseId": "3316780279",
       "neteasePop": 15,
-      "artistName": "KARAIKA"
-    },
-    {
-      "title": "辣椒肉242",
-      "album": "Rx010",
-      "year": "2026",
-      "durationMs": 71304,
-      "previewUrl": null,
-      "artwork": null,
-      "appleUrl": null,
-      "externalUrl": "https://music.163.com/song?id=3348261386",
-      "source": "netease",
-      "neteaseId": "3348261386",
-      "neteasePop": 10,
       "artistName": "KARAIKA"
     },
     {
@@ -8480,6 +8466,20 @@ window.SUBLEVEL_TOP_TRACKS = {
       "externalUrl": "https://music.163.com/song?id=3348261387",
       "source": "netease",
       "neteaseId": "3348261387",
+      "neteasePop": 10,
+      "artistName": "KARAIKA"
+    },
+    {
+      "title": "dueldisk",
+      "album": "dueldisk",
+      "year": "2026",
+      "durationMs": 123072,
+      "previewUrl": null,
+      "artwork": null,
+      "appleUrl": null,
+      "externalUrl": "https://music.163.com/song?id=2668126386",
+      "source": "netease",
+      "neteaseId": "2668126386",
       "neteasePop": 10,
       "artistName": "KARAIKA"
     }

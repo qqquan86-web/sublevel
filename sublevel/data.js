@@ -1639,17 +1639,17 @@
       "ja": "成都の新声。2026年シングル「马丁的早晨」はプラグ、ジャーク、四川ラップのゆったりした運びを混ぜる。2025年作『Ansuz』やUDGミックスにも彼の痕跡がある。"
     },
     "project": {
-      "title": "马丁的早晨",
-      "type": "single",
-      "date": "2026-09-06",
-      "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/%E9%A9%AC%E4%B8%81%E7%9A%84%E6%97%A9%E6%99%A8-single/6809389016?uo=4",
+      "title": "CNSWAG",
+      "type": "album",
+      "date": "2026-11-06",
+      "tracks": 14,
+      "appleUrl": "https://music.apple.com/us/album/cnswag/6831489976?uo=4",
       "preview": {
-        "title": "马丁的早晨",
-        "durationMs": 149085,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/77/32/89773224-d4f3-1979-4f55-4fa19cd165ba/mzaf_8821574390116813103.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/13/49/751349ca-20aa-5c03-588c-4178b6b2b6da/6937451237836.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/%E9%A9%AC%E4%B8%81%E7%9A%84%E6%97%A9%E6%99%A8/6809389016?i=6809389017&uo=4"
+        "title": "HoodByAir温度计",
+        "durationMs": 174208,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/4c/ed/214cedd8-bcf5-5e3b-8cf2-7e0fb912aed6/mzaf_377724351858252401.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/fb/35/7afb350b-ec79-c75f-1f02-2ef84ae29665/6932897013631.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/hoodbyair%E6%B8%A9%E5%BA%A6%E8%AE%A1/6831489976?i=6831489977&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/cn/artist/trickyzb/1751440130?uo=4",
@@ -3287,7 +3287,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-07",
+      updated: "2026-11-08",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
