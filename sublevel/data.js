@@ -1176,17 +1176,17 @@
       "ja": "ハイパーポップ、ダイジコア、ジャーク、アニメ的なネット・ユーモアをひとつに押し込む中国のアンダーグラウンド・コレクティブ。2026年のミックステープ『地下少女樂隊Mixtape1』はKlay137の中国ラップ近作レビューで取り上げられた。"
     },
     "project": {
-      "title": "地下少女樂隊Mixtape1",
-      "type": "album",
-      "date": "2026-10-23",
-      "tracks": 11,
-      "appleUrl": "https://music.apple.com/us/album/%E5%9C%B0%E4%B8%8B%E5%B0%91%E5%A5%B3%E6%A8%82%E9%9A%8Amixtape1/6822539372?uo=4",
+      "title": "汽修二班交朋友 (feat. Mutsumi uto & CaoN1MarB)",
+      "type": "single",
+      "date": "2026-11-08",
+      "tracks": 1,
+      "appleUrl": "https://music.apple.com/us/album/%E6%B1%BD%E4%BF%AE%E4%BA%8C%E7%8F%AD%E4%BA%A4%E6%9C%8B%E5%8F%8B-feat-mutsumi-uto-caon1marb-single/6832345942?uo=4",
       "preview": {
-        "title": "intro (prod.kashsaki x Tomori Rackz)",
-        "durationMs": 63089,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/d3/02/43d30213-91b4-ff3b-ee60-5ce8cc2fc219/mzaf_6486484004308602981.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/1f/8e/701f8e30-fa67-afc2-2694-a9080629c540/artwork.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/intro-prod-kashsaki-x-tomori-rackz/6822539372?i=6822539373&uo=4"
+        "title": "汽修二班交朋友 (feat. Mutsumi uto & CaoN1MarB)",
+        "durationMs": 192466,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/56/f5/4556f5b4-d213-9adb-0171-297c8f1fa431/mzaf_3597523593127829375.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/8d/d8/e08dd87e-59d8-c3b6-5a0f-bd5848615b3a/artwork.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/%E6%B1%BD%E4%BF%AE%E4%BA%8C%E7%8F%AD%E4%BA%A4%E6%9C%8B%E5%8F%8B-feat-mutsumi-uto-caon1marb/6832345942?i=6832345943&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/tw/artist/%E5%9C%B0%E4%B8%8B%E5%B0%91%E5%A5%B3%E6%A8%82%E9%9A%8A/1872990204?uo=4",
@@ -2162,7 +2162,7 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/sei/1844291283?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/e0a7e196f19a7f4d3fd043145dbe4911/500x500-000000-80-0-0.jpg",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/9fd80b648dfc430d469041f9cb04fc63/500x500-000000-80-0-0.jpg",
     "neteaseId": "52574150"
   },
   {
@@ -3287,7 +3287,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-09",
+      updated: "2026-11-10",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
