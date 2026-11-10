@@ -2162,7 +2162,7 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/sei/1844291283?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/9fd80b648dfc430d469041f9cb04fc63/500x500-000000-80-0-0.jpg",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/e23066163f21176a822b54001ee648a2/500x500-000000-80-0-0.jpg",
     "neteaseId": "52574150"
   },
   {
@@ -2912,12 +2912,18 @@
       "ja": "アメリカの実験的ポップ／ラップ・プロデューサー。2026年シングル「Sex」はクラブ・ドラム、歪んだシンセ、囁く声を圧縮し、独自のポップ・モンスターを作り続ける。"
     },
     "project": {
-      "title": "Warhorse",
-      "type": "single",
-      "date": "2026-09-21",
-      "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/warhorse-single/6816292324?uo=4",
-      "preview": null
+      "title": "Pirouette",
+      "type": "album",
+      "date": "2026-11-11",
+      "tracks": 16,
+      "appleUrl": "https://music.apple.com/us/album/pirouette/6812861964?uo=4",
+      "preview": {
+        "title": "Sex",
+        "durationMs": 166154,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/d4/81/1cd4811a-5290-d50f-06bb-b0e9fd85b0bb/mzaf_12233638392980095482.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/1f/b4/dd1fb404-93e5-4259-8230-27dec2c70675/26UM1IM13151.rgb.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/sex/6812861964?i=6812862300&uo=4"
+      }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/2hollis/1535847112?uo=4",
     "avatar": "avatars/2hollis.jpg",
@@ -3287,7 +3293,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-10",
+      updated: "2026-11-11",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
