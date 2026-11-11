@@ -864,17 +864,17 @@
       "ja": "ロサンゼルスの実験的ラップ・トリオ。インダストリアル・ノイズ、フットワーク、SF的物語を緊迫した政治的サウンドフィールドに溶接する。2025年『Dead Channel Sky』はこれまでで最も鋭いフル・アルバム。"
     },
     "project": {
-      "title": "Dead Channel Sky Plus",
-      "type": "album",
-      "date": "2025-09-19",
-      "tracks": 24,
-      "appleUrl": "https://music.apple.com/us/album/dead-channel-sky-plus/1822877098?uo=4",
+      "title": "Deadbolts",
+      "type": "single",
+      "date": "2026-11-11",
+      "tracks": 1,
+      "appleUrl": "https://music.apple.com/us/album/deadbolts-single/6826312000?uo=4",
       "preview": {
-        "title": "Intro",
-        "durationMs": 51426,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/73/31/727331e5-3bfb-f048-cffa-18ad2f93e731/mzaf_4260743107368222759.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/87/92/cc87927f-12cf-1ebf-a905-feb7509667a9/098787171266.png/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/intro/1822877098?i=1822877099&uo=4"
+        "title": "Deadbolts",
+        "durationMs": 201517,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/71/1c/3b/711c3b43-d66c-0d18-00f1-682c0669a532/mzaf_8874095917677953974.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/ad/59/63ad5949-ff29-80f1-dd5e-e14b2a90d488/5064158251641_cover.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/deadbolts/6826312000?i=6826312002&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/clipping/810595978?uo=4",
@@ -3293,7 +3293,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-11",
+      updated: "2026-11-12",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
