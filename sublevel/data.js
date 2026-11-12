@@ -1017,17 +1017,17 @@
       "ja": "英国の実験的ラップ／パフォーマンス・アーティスト。インダストリアル、ノイズ、ダンス、北部アクセントを身体的な圧に圧縮する。2022年EP『Armour II』が今も重要な入口。"
     },
     "project": {
-      "title": "Cold Summer, Pt. 1",
-      "type": "single",
-      "date": "2023-09-08",
-      "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/cold-summer-pt-1-single/1830322149?uo=4",
+      "title": "Saints in the Wethouse",
+      "type": "album",
+      "date": "2026-11-13",
+      "tracks": 12,
+      "appleUrl": "https://music.apple.com/us/album/saints-in-the-wethouse/6810135248?uo=4",
       "preview": {
-        "title": "Cold Summer, Pt. 1",
-        "durationMs": 417665,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/28/92/37289265-b007-1465-14c9-5402d58008f7/mzaf_15433827310554913609.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/91/60/8991606c-b253-0ba8-ce59-61cc0957c1ff/197189328138_PqOnPUSGDgLiIGHnwPRhizomes.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/cold-summer-pt-1/1830322149?i=1830322150&uo=4"
+        "title": "Northside Needs Me",
+        "durationMs": 143704,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/d1/81/85d181a1-955b-15a9-f277-dcc03b684175/mzaf_13512628710668985192.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/ce/48/77ce482c-e2ae-bbdb-4034-0bd97d94f643/191404171271.png/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/northside-needs-me/6810135248?i=6810135250&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/gb/artist/blackhaine/1538365614?uo=4",
@@ -2162,7 +2162,7 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/sei/1844291283?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/e23066163f21176a822b54001ee648a2/500x500-000000-80-0-0.jpg",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/9fd80b648dfc430d469041f9cb04fc63/500x500-000000-80-0-0.jpg",
     "neteaseId": "52574150"
   },
   {
@@ -3293,7 +3293,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-12",
+      updated: "2026-11-13",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
