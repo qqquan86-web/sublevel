@@ -709,17 +709,17 @@
       "ja": "東京の新世代ラップの中心人物で、Mall Boyzのメンバー。オートチューン、トラップ、エレクトロニクス、ファッション感覚を浮遊する音に変える。2026年、Lootaとの『Kuuga β』。"
     },
     "project": {
-      "title": "Apck",
+      "title": "W1000",
       "type": "single",
-      "date": "2026-10-21",
+      "date": "2026-11-13",
       "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/apck-single/6819890701?uo=4",
+      "appleUrl": "https://music.apple.com/us/album/w1000-single/6833089429?uo=4",
       "preview": {
-        "title": "Apck",
-        "durationMs": 162221,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/90/1b/90901b18-a963-8bda-2fe5-026424f8880e/mzaf_1373869804281381408.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/16/74/5c167435-36f6-6a3d-77dc-e6bff544dba1/4550795311646_cover.png/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/apck/6819890701?i=6819890706&uo=4"
+        "title": "W1000",
+        "durationMs": 150811,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/d4/d3/4dd4d3ac-54e3-f848-2c35-2d3fd08282f8/mzaf_15344172287114877129.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/6d/2b/296d2b25-1a92-6692-8e62-eb97e3a0c793/075679547156.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/w1000/6833089429?i=6833089682&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/jp/artist/tohji/1407773789?uo=4",
@@ -3293,7 +3293,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-13",
+      updated: "2026-11-14",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
