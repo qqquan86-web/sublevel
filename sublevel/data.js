@@ -760,17 +760,17 @@
       "ja": "日本のプロデューサー／ラッパーで、Mall Boyzのメンバー。抽象的なサンプル、低音、壊れたリズムでクラブとラップの間の空間をつくる。2025年EP『King of Nostalgia』でさらに内側へ。"
     },
     "project": {
-      "title": "Sugar Daddy Swag On (feat. Siero)",
+      "title": "Dopamine",
       "type": "single",
-      "date": "2026-11-04",
+      "date": "2026-11-18",
       "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/sugar-daddy-swag-on-feat-siero-single/6829088011?uo=4",
+      "appleUrl": "https://music.apple.com/us/album/dopamine-single/6830419119?uo=4",
       "preview": {
-        "title": "Sugar Daddy Swag On (feat. Siero)",
-        "durationMs": 188744,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/f4/0d/0bf40db4-9b8c-d8be-cb39-ba9937eebfbe/mzaf_8652706001665280460.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/33/9b/19339b13-5837-045d-ac88-e2b936cb65d1/4550796102915_cover.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/sugar-daddy-swag-on-feat-siero/6829088011?i=6829088012&uo=4"
+        "title": "Dopamine",
+        "durationMs": 82981,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/bb/32/46bb3297-2f2c-070c-e411-a419b137c047/mzaf_19061850417621967.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/29/c3/ce29c39d-644a-a45f-984d-986468aa0da6/4550796258193_cover.png/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/dopamine/6830419119?i=6830419120&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/jp/artist/kzm/1083743314?uo=4",
@@ -2162,7 +2162,7 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/sei/1844291283?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/e23066163f21176a822b54001ee648a2/500x500-000000-80-0-0.jpg",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/288f32852af760aa7a57eacefd3a63a3/500x500-000000-80-0-0.jpg",
     "neteaseId": "52574150"
   },
   {
@@ -3218,17 +3218,17 @@
       "ja": "韓国UDG Freshman Cypher 2026のメンバー。2026年シングル「mini」はプラグ、オルタナティブR&B、クラウド・ラップの霧を滑る。"
     },
     "project": {
-      "title": "mini (feat. aliswa)",
-      "type": "single",
-      "date": "2026-07-24",
-      "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/mini-feat-aliswa-single/6791256175?uo=4",
+      "title": "burgundy",
+      "type": "album",
+      "date": "2026-11-18",
+      "tracks": 10,
+      "appleUrl": "https://music.apple.com/us/album/burgundy/6815472416?uo=4",
       "preview": {
-        "title": "mini (feat. aliswa)",
-        "durationMs": 138868,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/d5/3f/f2d53f81-6f52-a1c9-3fd4-2328a2b15de0/mzaf_11042479999753580419.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/84/26/9b8426c4-dfcd-a4d5-1bb2-071eb1300a31/artwork.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/mini-feat-aliswa/6791256175?i=6791256176&uo=4"
+        "title": "잔몽 (殘夢)",
+        "durationMs": 138964,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/a5/c2/a9a5c20e-70dc-e77c-e96f-5142f8e904c0/mzaf_11808151495544412136.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/80/8d/89808dae-a82a-7f6a-5d37-962b65c92cca/artwork.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/%EC%9E%94%EB%AA%BD-%E6%AE%98%E5%A4%A2/6815472416?i=6815472417&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/pakaowlla/1719021854?uo=4",
@@ -3293,7 +3293,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-18",
+      updated: "2026-11-19",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
