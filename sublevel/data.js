@@ -505,17 +505,17 @@
       "ja": "香港のラップ／プロダクション・シーンの暗部を担うコラボレーター。インダストリアル・ノイズ、広東語の抑揚、夢のようなサンプルを同じ空間に押し込む。2025年、YoungQueenz、Floyd Cheungと『龍寨 DT2』を共同制作。"
     },
     "project": {
-      "title": "龍寨 DT2",
+      "title": "20211120",
       "type": "album",
-      "date": "2025-12-02",
-      "tracks": 17,
-      "appleUrl": "https://music.apple.com/us/album/%E9%BE%8D%E5%AF%A8-dt2/1856788903?uo=4",
+      "date": "2026-11-20",
+      "tracks": 3,
+      "appleUrl": "https://music.apple.com/us/album/20211120-single/6828979367?uo=4",
       "preview": {
-        "title": "Cimetière Raspail",
-        "durationMs": 120500,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/8d/9c/a68d9c83-f731-d39a-94e0-2883743c689e/mzaf_1765771939010091583.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/2e/30/ee2e3070-ba4b-8da1-d4d6-30de50b30f59/367457939995.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/cimeti%C3%A8re-raspail/1856788903?i=1856788906&uo=4"
+        "title": "20211120",
+        "durationMs": 275868,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/01/63/db0163ea-409b-f3c6-318b-bc94586e8ea9/mzaf_2839458032002772212.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8e/37/9f8e37e2-b2cb-401d-cef7-0a8ff9241d54/210994.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/20211120/6828979367?i=6828979369&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/hk/artist/n-o-l-y/1352606173?uo=4",
@@ -3293,7 +3293,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-19",
+      updated: "2026-11-20",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
