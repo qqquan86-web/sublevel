@@ -2162,7 +2162,7 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/sei/1844291283?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/288f32852af760aa7a57eacefd3a63a3/500x500-000000-80-0-0.jpg",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/e23066163f21176a822b54001ee648a2/500x500-000000-80-0-0.jpg",
     "neteaseId": "52574150"
   },
   {
@@ -3293,7 +3293,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-20",
+      updated: "2026-11-21",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
