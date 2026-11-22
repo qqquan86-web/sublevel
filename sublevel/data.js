@@ -1332,17 +1332,17 @@
       "ja": "韓国のハイパーポップ／ダイジコアを代表する名前のひとつ。2026年作『헤븐스타』はオートチューン・ヴォーカル、ゲーム・サンプル、ラップを断片化し続ける。beJADE_もUDG回で名前を挙げた。"
     },
     "project": {
-      "title": "헤븐스타",
-      "type": "album",
-      "date": "2026-10-01",
-      "tracks": 10,
-      "appleUrl": "https://music.apple.com/us/album/%ED%97%A4%EB%B8%90%EC%8A%A4%ED%83%80/6816633416?uo=4",
+      "title": "only heaven",
+      "type": "single",
+      "date": "2026-11-21",
+      "tracks": 1,
+      "appleUrl": "https://music.apple.com/us/album/only-heaven-single/6835386834?uo=4",
       "preview": {
-        "title": "Oi터니티, et3rnity",
-        "durationMs": 160104,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dd/e1/d0/dde1d0c4-28bf-1a8f-99f0-6784e51492be/mzaf_1663319477388409363.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/cd/4b/c6cd4b65-3a48-ee57-a7a6-213abb8e8905/artwork.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/oi%ED%84%B0%EB%8B%88%ED%8B%B0-et3rnity/6816633416?i=6816633417&uo=4"
+        "title": "only heaven",
+        "durationMs": 107344,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/a9/5b/2aa95ba4-7b81-5775-f503-3afad8613f8f/mzaf_9424774789477137453.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/29/fc/ee29fca4-3a7d-18e1-dd09-add12addd0e4/artwork.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/only-heaven/6835386834?i=6835386835&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/chilloud/1503274785?uo=4",
@@ -2162,7 +2162,7 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/sei/1844291283?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/e23066163f21176a822b54001ee648a2/500x500-000000-80-0-0.jpg",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/9fd80b648dfc430d469041f9cb04fc63/500x500-000000-80-0-0.jpg",
     "neteaseId": "52574150"
   },
   {
@@ -3293,7 +3293,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-22",
+      updated: "2026-11-23",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
