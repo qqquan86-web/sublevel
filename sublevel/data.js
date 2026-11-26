@@ -2148,17 +2148,17 @@
       "ja": "韓国UDG Freshman Cypher 2026のメンバーで、オーディオ・エディット担当。2026年シングル「rogue-like」はオルタナティブ・ポップとラップを折り重ねる。"
     },
     "project": {
-      "title": "rogue-like",
+      "title": "chrysanthemum",
       "type": "single",
-      "date": "2026-10-22",
+      "date": "2026-11-25",
       "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/rogue-like-single/6825791489?uo=4",
+      "appleUrl": "https://music.apple.com/us/album/chrysanthemum-single/6833425807?uo=4",
       "preview": {
-        "title": "rogue-like",
-        "durationMs": 107300,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/21/b1/a321b182-bc7a-2fc0-11ed-b12305e4e96d/mzaf_7670594928696283710.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/f9/96/98f996db-bdbf-0461-c33b-470521022fd9/885975137827_cover.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/rogue-like/6825791489?i=6825791490&uo=4"
+        "title": "chrysanthemum",
+        "durationMs": 106466,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/b4/b4/aab4b4e6-2d7f-af47-0750-b120ca3f6425/mzaf_7286682893071032731.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/76/bb/3d76bb61-5645-961a-afc4-adb54a68c7bb/715778503737_cover.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/chrysanthemum/6833425807?i=6833425808&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/sei/1844291283?uo=4",
@@ -3293,7 +3293,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-25",
+      updated: "2026-11-26",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
