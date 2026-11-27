@@ -2569,7 +2569,7 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/sion/1410596394?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/a4fdaae9fd114b4ce57a1c7bbc42f108/500x500-000000-80-0-0.jpg",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/f3bbbaf2bfb29753f2ebbc65c376d9dd/500x500-000000-80-0-0.jpg",
     "neteaseId": "837022"
   },
   {
@@ -3293,7 +3293,7 @@
     meta: {
       edition: "VOL. 02",
       window: "不限年份",
-      updated: "2026-11-26",
+      updated: "2026-11-27",
       curatedCount: ARTISTS.length,
       focus: "UDG / UG"
     },
